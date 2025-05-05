@@ -1,4 +1,4 @@
-<h1 align=center>ACORDEON PLAYSTATION</h1>
+<h1 align=center>Enlace Social</h1>
 
 <br>
 
